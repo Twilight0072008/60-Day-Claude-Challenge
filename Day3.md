@@ -51,7 +51,8 @@ Focus on:
 
 ## Output Screenshot
 
-<img width="716" height="894" alt="Screenshot 2026-06-03 231633" src="https://github.com/user-attachments/assets/e1df2b8e-14cb-4c36-9322-6c2530da734f" />
+<img width="629" height="792" alt="Screenshot 2026-06-03 231559" src="https://github.com/user-attachments/assets/8429ccae-e4a9-46c2-9c35-fc17818a2670" />
+
 
 
 ## Observation
