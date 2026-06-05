@@ -159,7 +159,8 @@ AI can generate structured study plans, recommend resources, and create personal
 
 Generic 30-Day Prompt Engineering Roadmap
 
-<img width="1024" height="1536" alt="ChatGPT Image Jun 5, 2026, 10_13_21 PM" src="https://github.com/user-attachments/assets/41fe3116-6461-40db-a1a9-86cb5a702384" />
+<img width="1024" height="1536" alt="ChatGPT Image Jun 5, 2026, 10_05_27 PM" src="https://github.com/user-attachments/assets/61266b69-53ac-48f8-b2df-388c7c9304d3" />
+
 
 
 Personalized 30-Day Full Stack Developer Roadmap
