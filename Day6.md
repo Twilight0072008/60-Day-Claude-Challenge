@@ -196,7 +196,8 @@ Reducing unnecessary content increases keyword density for technical skills and 
 
 ## Screenshot 3: ATS Analysis Comparison
 
-<img width="634" height="945" alt="Screenshot 2026-06-05 223724" src="https://github.com/user-attachments/assets/0225c2c1-caf4-43a2-9e86-077c5a51ef5c" />
+<img width="1536" height="1007" alt="ChatGPT Image Jun 6, 2026, 09_57_46 PM" src="https://github.com/user-attachments/assets/675b4b2a-bd37-43f6-b0c3-38951c205b93" />
+
 
 
 ---
