@@ -1,4 +1,4 @@
-# Day 6 – Claude Usage Strategy
+# Day 7 – Claude Usage Strategy
 
 ## Objective
 
@@ -148,12 +148,18 @@ Used only for:
 
 ## Screenshot 1
 
+Claude Usage Strategy Dashboard
+<img width="1024" height="1523" alt="ChatGPT Image Jun 8, 2026, 11_22_50 PM" src="https://github.com/user-attachments/assets/88c35c91-f3ae-46d9-8158-aa4b55ecbe37" />
+
+
+## Screenshot 2
+
 Model Recommendation Section
 
 <img width="997" height="795" alt="Screenshot 2026-06-08 230734" src="https://github.com/user-attachments/assets/82469084-5076-4ce6-b4b7-113109afd2cb" />
 
 
-## Screenshot 2
+## Screenshot 3
 
 Personalized Workflow Table
 
