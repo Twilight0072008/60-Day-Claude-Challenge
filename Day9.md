@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-NutriScope started as a basic nutrition tracker focused on calorie and macronutrient monitoring. This enhancement transformed it into a comprehensive nutrition intelligence platform capable of analyzing dietary habits, identifying nutrient deficiencies, generating meal plans, and providing personalized recommendations.
+NutriScope started as a basic nutrition tracker focused on calorie and macronutrient monitoring. This enhancement transformed it into a comprehensive nutrition intelligence platform capable of analyzing dietary habits, identifying nutrient deficiencies,  and providing personalized recommendations.
 
 The objective was to improve usability, nutritional depth, and decision-making support while maintaining a clean and modern dashboard experience.
 
@@ -88,32 +88,6 @@ And many more.
 
 This provides a significantly more complete nutritional profile.
 
----
-
-### 📅 2-Day Intelligent Meal Planner
-
-Automatically generates:
-
-#### Day 1
-
-* Breakfast
-* Lunch
-* Dinner
-* Snacks
-
-#### Day 2
-
-* Breakfast
-* Lunch
-* Dinner
-* Snacks
-
-Based on:
-
-* User goals
-* Calorie targets
-* Dietary preferences
-* Nutrient deficiencies
 
 ---
 
