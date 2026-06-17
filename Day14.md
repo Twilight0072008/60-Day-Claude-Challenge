@@ -221,8 +221,9 @@ Stipend: ₹12,000 – ₹18,000/month
 About the Role
 
 We are looking for a creative and enthusiastic Digital Marketing Intern to join our growing marketing team. This internship is ideal for students and fresh graduates who are passionate about social media, content creation, branding, and digital marketing. You will work closely with our marketing team to create engaging campaigns, improve our online presence, and contribute innovative ideas.
+---
 
-Key Responsibilities
+# Key Responsibilities
 Create engaging content for Instagram, LinkedIn, Facebook, and other social media platforms.
 Design social media posts, banners, and marketing creatives using Canva or similar tools.
 Write captions, blogs, newsletters, and website content.
@@ -233,8 +234,10 @@ Analyze campaign performance using Google Analytics and social media insights.
 Edit short-form videos and reels using CapCut, Adobe Premiere Pro, or similar software.
 Research industry trends, competitors, and audience preferences.
 Collaborate with the design and content teams to improve brand visibility.
-Required Skills
-Technical Skills
+---
+
+# Required Skills
+## Technical Skills
 Canva
 Social Media Marketing
 Content Writing
@@ -259,7 +262,8 @@ Strong interest in Digital Marketing
 Portfolio of social media posts or creative work (Preferred)
 Basic understanding of branding and marketing strategies
 Familiarity with LinkedIn and Instagram content creation
-Perks
+---
+# Perks
 💻 Work From Home
 🎓 Internship Certificate
 💰 Performance Bonus
